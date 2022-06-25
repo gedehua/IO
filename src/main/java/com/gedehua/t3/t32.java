@@ -1,4 +1,9 @@
 package com.gedehua.t3;
 
-public class t32 {
+import com.gedehua.Report;
+
+@Report()
+public class t32 extends BaseT3{
+
+
 }
